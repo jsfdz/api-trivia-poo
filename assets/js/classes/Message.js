@@ -15,8 +15,6 @@ export default class Message {
                 message
             }
 
-        console.log(messages);
-
         UI.renderMessage(messages)
     }
 }
